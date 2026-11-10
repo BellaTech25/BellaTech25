@@ -1,1 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320"><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080D1D"/><stop offset="1" stop-color="#191339"/></linearGradient></defs><rect width="1200" height="320" fill="url(#bg)"/><circle cx="1040" cy="130" r="210" fill="#6453FF" opacity=".16"/><circle cx="980" cy="95" r="120" fill="#00D4FF" opacity=".12"/><text x="65" y="155" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="91" font-weight="bold">BellaTech</text><text x="72" y="218" fill="#78DCFF" font-family="Arial,sans-serif" font-size="27">SOFTWARE / SECURITY / CREATIVE TECHNOLOGY</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-label="BellaTech — Build. Secure. Imagine.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080D1C"/>
+      <stop offset=".56" stop-color="#10142C"/>
+      <stop offset="1" stop-color="#17113B"/>
+    </linearGradient>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#43D9FF"/>
+      <stop offset="1" stop-color="#8870FF"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop offset="0" stop-color="#795AFF" stop-opacity=".32"/>
+      <stop offset="1" stop-color="#795AFF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M38 0H0V38" fill="none" stroke="#7890D0" stroke-opacity=".10" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="350" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="350" rx="16" fill="url(#grid)"/>
+  <circle cx="1045" cy="166" r="330" fill="url(#halo)"/>
+  <path d="M800 0L1170 350M895 0L1200 290M704 0L1072 350" stroke="#7683E7" stroke-opacity=".12" stroke-width="2"/>
+  <rect x="14" y="14" width="1172" height="322" rx="12" fill="none" stroke="#6E7DBB" stroke-opacity=".28"/>
+  <path d="M54 52H163" stroke="#45D9FB" stroke-width="4" stroke-linecap="round"/>
+  <rect x="60" y="97" width="104" height="104" rx="26" fill="#171F43" stroke="#6C8DFC" stroke-width="2"/>
+  <path d="M116 117L88 150L116 181M128 117L153 150L128 181" stroke="url(#brand)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <text x="187" y="151" fill="#F8FAFF" font-family="Arial, Helvetica, sans-serif" font-size="82" font-weight="700" letter-spacing="-3">BellaTech</text>
+  <text x="192" y="190" fill="#70DDFF" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="600">Build. Secure. Imagine.</text>
+  <text x="192" y="222" fill="#BCC7E4" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="2.2">SOFTWARE  /  SECURITY  /  CREATIVE TECHNOLOGY</text>
+  <path d="M60 269H1140" stroke="#7685C0" stroke-opacity=".38"/>
+  <circle cx="60" cy="269" r="4" fill="#45D9FB"/>
+  <text x="64" y="304" fill="#BFC9EA" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="2">ENGINEERING</text>
+  <circle cx="238" cy="298" r="3" fill="#8B73FF"/>
+  <text x="256" y="304" fill="#BFC9EA" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="2">PRIVACY</text>
+  <circle cx="385" cy="298" r="3" fill="#8B73FF"/>
+  <text x="403" y="304" fill="#BFC9EA" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="2">IMMERSIVE EXPERIENCES</text>
+  <circle cx="1043" cy="135" r="105" stroke="#8775FA" stroke-opacity=".36" stroke-width="2" fill="none"/>
+  <circle cx="1043" cy="135" r="78" stroke="#4CDBFE" stroke-opacity=".24" stroke-width="2" stroke-dasharray="5 10" fill="none"/>
+  <circle cx="1043" cy="135" r="47" fill="#5364C6" fill-opacity=".13" stroke="#8DA7FB" stroke-opacity=".34"/>
+  <path d="M1043 72V198M980 135H1106" stroke="#B9B5FF" stroke-opacity=".36"/>
+  <circle cx="1043" cy="30" r="7" fill="#4CDBFE"/>
+  <circle cx="1148" cy="135" r="7" fill="#9075FF"/>
+  <circle cx="968" cy="209" r="5" fill="#4CDBFE"/>
+  <path d="M1026 135L1040 150L1062 117" stroke="#E1EDFF" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="987" y="255" fill="#8CA6DC" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">DESIGN  ·  DEVELOP</text>
+</svg>
